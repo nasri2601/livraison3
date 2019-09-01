@@ -184,6 +184,10 @@ footer {
     height: 6vh;
   }
 
+  .first-image {
+    width: 90vw;
+  }
+
   .menuToggle {
     display: block;
     position: relative;
