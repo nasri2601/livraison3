@@ -1,0 +1,50 @@
+h1 {
+  font-family: "Lobster", cursive;
+  color: #262626;
+}
+
+h2, p {
+  font-family: "Josefin Sans", sans-serif;
+  color: #262626;
+}
+
+header img {
+  margin-left: 40%;
+}
+
+h1 {
+  margin-left: 42%;
+}
+
+nav {
+  border-left: rgba(242, 164, 68, 0.9) groove 20px;
+  border-right: rgba(242, 164, 68, 0.9) ridge 20px;
+  margin: 2%;
+  background-color: #0d0d0d;
+  height: 5vh;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  font-size: 1.7rem;
+  list-style-type: none;
+}
+
+nav li {
+  margin-top: 0.5%;
+  margin-right: 5%;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+nav a {
+  color: #F2F2F2;
+  padding-bottom: 3px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #F2A444;
+}
+
+/*# sourceMappingURL=style.css.map */
