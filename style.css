@@ -59,6 +59,56 @@ h1 {
   margin-left: 42%;
 }
 
+.titre-presta {
+  color: #F2A444;
+}
+
+.main-presta p {
+  text-align: center;
+}
+
+.contact img {
+  margin-left: 35%;
+  display: flex;
+  justify-content: center;
+}
+
+.contact-form {
+  text-align: center;
+}
+
+.nav-contact li {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 1.4rem;
+}
+
+.nav-contact ul {
+  list-style-type: none;
+}
+
+.nav-contact a {
+  color: #F2A444;
+  padding-bottom: 3px;
+  text-decoration: none;
+}
+
+.cotact {
+  display: flex;
+}
+
+.photo-presta {
+  margin-bottom: 10%;
+}
+
+.galerie-image {
+  margin-left: 15%;
+}
+
+section img {
+  display: flex;
+  justify-content: space-around;
+}
+
 .first-image {
   display: flex;
   justify-content: space-around;
