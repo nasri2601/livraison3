@@ -101,7 +101,11 @@ h1 {
 }
 
 .galerie-image {
-  margin-left: 15%;
+  margin-left: 20%;
+}
+
+.galerie-image img {
+  width: 30vw;
 }
 
 section img {
@@ -138,6 +142,18 @@ footer {
 
 .twitter {
   margin-left: 70%;
+}
+
+@media screen and (max-width: 800px) {
+  .galerie-image img {
+    width: 60vw;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .logo {
+    display: none;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */

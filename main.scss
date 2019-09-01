@@ -4,10 +4,8 @@ span
 {
     color: #F2A444
 }
-body
-{
-    
-}
+
+
 
 header img 
 {
@@ -70,11 +68,19 @@ h1
     margin-bottom: 10%;
 }
 
-.galerie-image{
-    margin-left: 15%;
+.galerie-image {
+    margin-left: 20%;
+    
+    
     
     
 }
+
+.galerie-image img 
+{
+    width: 30vw;
+}    
+
 
 section img
 {
@@ -122,4 +128,19 @@ section img
     margin-left: 70%;
    
    
+}
+
+@media screen and (max-width: 800px)
+
+{
+    .galerie-image img{
+        width: 60vw;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .logo
+    {
+        display: none;
+    }
 }
