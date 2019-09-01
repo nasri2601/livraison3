@@ -8,6 +8,18 @@ h2, p {
   color: #262626;
 }
 
+h2 {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1.4rem;
+}
+
+span {
+  color: #F2A444;
+}
+
 header img {
   margin-left: 40%;
 }
@@ -45,6 +57,37 @@ nav a {
 
 nav a:hover {
   color: #F2A444;
+}
+
+.first-image {
+  display: flex;
+  justify-content: space-around;
+  margin: 4%;
+  opacity: 0.9;
+}
+
+.second-image {
+  display: flex;
+  justify-content: space-around;
+  margin: 4%;
+}
+
+h2, p {
+  text-align: center;
+}
+
+main p {
+  text-align: inherit;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+footer {
+  background-color: rgba(242, 164, 68, 0.8);
+}
+
+.twitter {
+  margin-left: 70%;
 }
 
 /*# sourceMappingURL=style.css.map */
