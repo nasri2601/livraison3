@@ -188,6 +188,10 @@ footer {
     width: 90vw;
   }
 
+  .second-image {
+    width: 90vw;
+  }
+
   .menuToggle {
     display: block;
     position: relative;
