@@ -1,4 +1,12 @@
 @import 'base/fonts';
+span
+{
+    color: #F2A444
+}
+body
+{
+    
+}
 
 header img 
 {
@@ -43,3 +51,44 @@ nav a
         color: #F2A444;
         
     }
+
+    .first-image{
+        display: flex;
+        justify-content: space-around;
+        margin: 4%;
+        opacity: 0.9;
+    }
+
+ .second-image
+ {
+    display: flex;
+    justify-content: space-around;
+    margin: 4%
+ }
+
+    h2 ,p 
+    {
+        text-align: center; 
+    }
+
+    main p
+    {
+        text-align: inherit;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+
+        
+
+    footer
+    {
+        background-color: rgb(242, 164, 68,0.8)
+    }
+
+    .twitter
+{
+    margin-left: 70%;
+   
+   
+}
