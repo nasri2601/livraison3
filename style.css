@@ -16,18 +16,6 @@ p {
   font-size: 1.4rem;
 }
 
-span {
-  color: #F2A444;
-}
-
-header img {
-  margin-left: 40%;
-}
-
-h1 {
-  margin-left: 42%;
-}
-
 nav {
   border-left: rgba(242, 164, 68, 0.9) groove 20px;
   border-right: rgba(242, 164, 68, 0.9) ridge 20px;
@@ -57,6 +45,18 @@ nav a {
 
 nav a:hover {
   color: #F2A444;
+}
+
+span {
+  color: #F2A444;
+}
+
+header img {
+  margin-left: 40%;
+}
+
+h1 {
+  margin-left: 42%;
 }
 
 .first-image {
