@@ -5,3 +5,5 @@ Les téchno autorisé pour l'exercice HTML/CSS
 --------------------------------
 <img src="./images/screen2.png" />
 
+en formation avec l'organisme Simplon et Yes We Web pour devenir un futur devellopeur Web
+
