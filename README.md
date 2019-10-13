@@ -1,4 +1,4 @@
-# livraison3 / site photographe bébé (dans le cadre d'un exercice pour ma formation)
+# livraison3 / site photographe bébé (dans le cadre d'un exercice pour ma formation) niveau à 1 mois sur 8mois de formation
 
 Le but de l'exercices etait de faire un site pour une photographe bébé.
 Les téchno autorisé pour l'exercice HTML/CSS
